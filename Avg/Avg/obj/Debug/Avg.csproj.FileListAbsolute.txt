@@ -1,0 +1,7 @@
+C:\Users\nitee\Downloads\c#\Avg\Avg\bin\Debug\Avg.exe.config
+C:\Users\nitee\Downloads\c#\Avg\Avg\bin\Debug\Avg.exe
+C:\Users\nitee\Downloads\c#\Avg\Avg\bin\Debug\Avg.pdb
+C:\Users\nitee\Downloads\c#\Avg\Avg\obj\Debug\Avg.csproj.AssemblyReference.cache
+C:\Users\nitee\Downloads\c#\Avg\Avg\obj\Debug\Avg.csproj.CoreCompileInputs.cache
+C:\Users\nitee\Downloads\c#\Avg\Avg\obj\Debug\Avg.exe
+C:\Users\nitee\Downloads\c#\Avg\Avg\obj\Debug\Avg.pdb

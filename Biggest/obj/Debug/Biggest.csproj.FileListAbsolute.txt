@@ -1,0 +1,7 @@
+C:\Users\nitee\Downloads\c#\Biggest\Biggest\bin\Debug\Biggest.exe.config
+C:\Users\nitee\Downloads\c#\Biggest\Biggest\bin\Debug\Biggest.exe
+C:\Users\nitee\Downloads\c#\Biggest\Biggest\bin\Debug\Biggest.pdb
+C:\Users\nitee\Downloads\c#\Biggest\Biggest\obj\Debug\Biggest.csproj.AssemblyReference.cache
+C:\Users\nitee\Downloads\c#\Biggest\Biggest\obj\Debug\Biggest.csproj.CoreCompileInputs.cache
+C:\Users\nitee\Downloads\c#\Biggest\Biggest\obj\Debug\Biggest.exe
+C:\Users\nitee\Downloads\c#\Biggest\Biggest\obj\Debug\Biggest.pdb

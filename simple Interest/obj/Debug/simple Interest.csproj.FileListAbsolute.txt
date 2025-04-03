@@ -1,0 +1,7 @@
+C:\Users\nitee\Downloads\c#\simple Interest\simple Interest\bin\Debug\simple Interest.exe.config
+C:\Users\nitee\Downloads\c#\simple Interest\simple Interest\bin\Debug\simple Interest.exe
+C:\Users\nitee\Downloads\c#\simple Interest\simple Interest\bin\Debug\simple Interest.pdb
+C:\Users\nitee\Downloads\c#\simple Interest\simple Interest\obj\Debug\simple Interest.csproj.AssemblyReference.cache
+C:\Users\nitee\Downloads\c#\simple Interest\simple Interest\obj\Debug\simple Interest.csproj.CoreCompileInputs.cache
+C:\Users\nitee\Downloads\c#\simple Interest\simple Interest\obj\Debug\simple Interest.exe
+C:\Users\nitee\Downloads\c#\simple Interest\simple Interest\obj\Debug\simple Interest.pdb
